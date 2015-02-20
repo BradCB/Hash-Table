@@ -1,4 +1,4 @@
-//Brad Bolton A01383991
+
 //This file contains the function implementations of the hash table
 
 #include<iostream>
