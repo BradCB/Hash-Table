@@ -1,4 +1,4 @@
-//Brad Bolton A01383991
+
 //This program is the header file for the hash table class
 #include<iostream>
 #include<string>
