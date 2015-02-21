@@ -1,4 +1,4 @@
-//Brad Bolton A01383991
+//Brad Bolton 
 //This program opens the text file input and each word is passed to the addItem function
 //After all the words have been added the program calls the hash tables print function and
 //displays each word and its frequency
